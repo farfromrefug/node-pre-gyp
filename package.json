@@ -1,7 +1,7 @@
 {
   "name": "node-pre-gyp-prod",
   "description": "Node.js native addon binary install tool",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "keywords": [
     "native",
     "addon",
@@ -17,7 +17,7 @@
     "type": "git",
     "url": "git://github.com/farfromrefug/node-pre-gyp.git"
   },
-  "bin": "./bin/node-pre-gyp",
+
   "main": "./lib/node-pre-gyp.js",
   "dependencies": {
     "semver": "^5.4.1"
